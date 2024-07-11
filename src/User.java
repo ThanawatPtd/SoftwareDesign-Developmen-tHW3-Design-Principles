@@ -1,3 +1,5 @@
+package src;
+
 public class User {
   private String name;
   private final String id;
