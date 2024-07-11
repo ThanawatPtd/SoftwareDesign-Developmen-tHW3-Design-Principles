@@ -3,7 +3,10 @@ package src;
 import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Pattern;
-
+/**
+ * Thanawat Potidet
+ * 6510450445
+ * */
 public class Checker {
 
     public static boolean checkName(String name){
